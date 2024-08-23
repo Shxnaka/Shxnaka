@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=welcome+to+my+Github+page"></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=welcome+to+my+Github+profile"></a>
 </p>
 <!--Start Intro-->               
 <h1 align="center">Hi 👋, I'm Shanaka madushan</h1>
