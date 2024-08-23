@@ -109,8 +109,8 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
-<a href="mailto:kirannaragund197@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
+<a href="shanakam1212@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=shanakam1212@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/kiran_a_n" target="_blank">
@@ -129,7 +129,7 @@
 
 ------
 
-Credit: [Kiran1689](https://github.com/Kiran1689)
+Credit: [shxnaka](https://github.com/shxnaka)
 
 Last Edited on: 29/11/2023
 
